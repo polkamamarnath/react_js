@@ -1,0 +1,9 @@
+.header{
+    background-color: red;
+    padding: 10px;
+    margin: 5px;
+}
+.btn{
+    background-color: black;
+    border-radius: 50%;    
+}
